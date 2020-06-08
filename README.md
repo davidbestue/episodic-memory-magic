@@ -1,4 +1,6 @@
-# Gea memory
+# Episodic memory and magic  
+
+### Files used for the statistical analysis analysis and plots.  
 
 files:   
 ***processing.ipynb***: codes for converting the raw data excel in the convenient dataframe for the analysis.  
@@ -16,3 +18,7 @@ images:
 ***design.svg***: figure with the task design.    
 ***magic_vs_other***: figure comparing magic with other stimuli.  
 
+
+***Dependencies:***  
+You need the standard python and R packeges.  
+For certain plots, you will need to install and add to your site-packeges the [linares plot](https://github.com/davidbestue/funciones)  
