@@ -9,7 +9,7 @@ files:
 excels:  
 ***4meses.xlsx***: responses of the subjects (raw data) with numbers according to the trick assigned.    
 ***df_proces.xlsx***: dataframe after running processing.ipynb to 4meses2.xlsx.  
-***r_analysis.xlsx***: subset of df_processed to run the models in R.    
+***r_analysis.csv***: subset of df_processed to run the models in R.    
 ***table.xlsx***: summary of responses & important models in a table for the supl. 4 and supl. 5.  
 
 images:  
