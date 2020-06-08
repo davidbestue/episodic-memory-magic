@@ -12,7 +12,7 @@ excels:
 ***r_analysis.xlsx***: subset of df_processed to run the models in R.    
 ***table.xlsx***: summary of responses & important models in a table for the supl. 4 and supl. 5.  
 
-images:
+images:  
 ***design.svg***: figure with the task design.    
 ***magic_vs_other***: figure comparing magic with other stimuli.  
 
